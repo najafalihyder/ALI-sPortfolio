@@ -49,7 +49,7 @@ crypto-dashboard/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/najafalihyder/ALI-sPortfolio/tree/main/CryptoAgregator.git
+   git clone https://github.com/najafalihyder/ALI-sPortfolio/tree/main/CryptoDashboard.git
    cd crypto-dashboard
 
 
