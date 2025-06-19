@@ -67,7 +67,7 @@ amazon-scraper-selenium/
 
 2. **Clone the repo**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/amazon-scraper-selenium.git
+   git clone https://github.com/najafalihyder/ALI-sPortfolio/tree/main/AmazonScraper.git
    cd amazon-scraper-selenium
 Install dependencies:
 
@@ -91,7 +91,7 @@ This tool is intended for educational and personal use only. Scraping Amazon may
 🤝 Hire Me
 I specialize in scraping complex websites using Selenium, anti-blocking techniques, and data automation.
 
-📩 Hire me on Upwork
+📩 Hire me on Upwork  [ -- PROFILE -- ]: https://www.upwork.com/freelancers/~018b0354b85575ecd2
 Let’s build a custom scraper for your project.
 
 📜 License
