@@ -1,0 +1,8 @@
+pandas
+requests
+schedule
+sqlalchemy
+streamlit
+
+Can be more too:
+  so try checking Codes
